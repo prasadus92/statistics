@@ -1,0 +1,13 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+*.out
+
+# target files
+target/*
+
+# IDE Files
+.idea/*
+statistics.iml
